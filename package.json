@@ -13,5 +13,9 @@
     "express": "^4.17.1",
     "socket.io": "^4.1.1",
     "timesync": "^1.0.8"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
